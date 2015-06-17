@@ -1,0 +1,1 @@
+This is a collection of tips and scripts for Jenkins.
